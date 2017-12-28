@@ -5,7 +5,7 @@
 * sudo apg-get install xdotool
 * sudo apt install python3-pip
 * sudo apt-get install python3-tk
-* sudo pip3 install Path
+* sudo pip3 install pathlib
 
 ### Installation Linux 
 * Create directory for snippets files and adjust base_dir variable in autosnippet.py file
